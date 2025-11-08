@@ -4,7 +4,7 @@ import aiData from "./ai.json"; // Import JSON file
 const AIRecommendation = () => {
    useEffect(() => {
       const script = document.createElement("script");
-      script.src = "//code.tidio.co/xwyouq2qhy2x4sdmpkwyrxm1bff7dprq.js";
+      script.src = "//code.tidio.co/prhna9cfxdbxlsuioyzyzbyq4exusfkt.js";
       script.async = true;
       document.body.appendChild(script);
     }, []);
